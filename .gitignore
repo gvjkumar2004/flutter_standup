@@ -10,6 +10,7 @@
 .fvm/flutter_sdk
 .idea/
 .packages
+.DS_Store
 .pub-cache/
 .pub/
 build/
